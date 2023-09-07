@@ -1,0 +1,1 @@
+C:/Users/user2/Documents/build-AisleManage-Desktop_Qt_5_12_12_MinGW_64_bit-AisleManage/release/batch2.bat
